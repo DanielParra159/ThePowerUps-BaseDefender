@@ -1,0 +1,17 @@
+{
+    "name": "BaseDefender.Domain",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e6a9ebf9552a44dda987cfd80090af29",
+        "GUID:53ff689c7dac34457ae916809ea08a51"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

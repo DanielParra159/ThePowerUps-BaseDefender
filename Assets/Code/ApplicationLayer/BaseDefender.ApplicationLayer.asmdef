@@ -1,0 +1,23 @@
+{
+    "name": "BaseDefender.ApplicationLayer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c0d0e52e1e7e3455bba7334a0ad75f7a",
+        "GUID:e6a9ebf9552a44dda987cfd80090af29",
+        "GUID:0da6d172d18a54e4389d0dce1e1ffdf2",
+        "GUID:53ff689c7dac34457ae916809ea08a51",
+        "GUID:0eaaa580627914f2cb4bf66b627f19d4",
+        "GUID:f8a173bc1d0844e3eb0909f78cc5166a",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

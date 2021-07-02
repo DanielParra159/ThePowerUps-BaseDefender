@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+*.DS_Store
+
+.idea/.idea.ThePowerUps-BaseDefender/.idea/workspace.xml
+.idea/.idea.ThePowerUps-BaseDefender/.idea/contentModel.xml
+
+/artifacts/
