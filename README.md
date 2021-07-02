@@ -8,4 +8,6 @@ Ahora busca dentro de la carpeta Configurations/Units las Unidades 001 y 002 y p
 
 El repositorio utiliza Actions automáticas para generar una build cada vez que abrimos un Pull Request, estas actions las encontrarás en [https://game.ci/](https://game.ci/)
 
+Puedes seguir la evolución del juego en el tablero de [Trello](https://trello.com/b/NukOzCil/juego-defender-la-base).
+
 Si tienes cualquier pregunta, no dudes en pasarte por el server de [Discord](https://discord.gg/KWABp4BfN4) dónde somos más de 300 devs compartiendo nuestros conocimientos.
